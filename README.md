@@ -125,4 +125,5 @@ jupyter notebook residue_contact_classification.ipynb
 ## Files
 - `residue_contact_classification.ipynb` — Full Jupyter notebook with 
   all code, plots, and analysis
-- `data/` — Residue contact dataset (375 features, 10,000 examples)
+- `data/` — Dataset not included due to file size (>25MB). 
+  Available via BINF 610 course at University of Delaware
